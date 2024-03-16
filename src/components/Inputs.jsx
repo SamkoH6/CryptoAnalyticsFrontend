@@ -20,7 +20,7 @@ export default function Hero({ mainData, setMainData }) {
     };
 
     // URL of the Flask endpoint
-    const url = "http://127.0.0.1:5000";
+    const url = "https://cryptoanalyticsbackend.onrender.com/";
 
     // Send POST request using Axios
     axios
